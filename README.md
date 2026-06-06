@@ -54,7 +54,7 @@ Within each run, aspirate curves and dispense curves are each sorted chronologic
 
 ## Sample output
 
-### Dataset (first 100 rows)
+### Dataset (first 10 rows)
 
 | RunID | CheckSum | StepType | StepLabel | ChannelNumber | SampleIndex | CurveTime | CurvePressure | Weight |
 |---|---|---|---|---|---|---|---|---|
