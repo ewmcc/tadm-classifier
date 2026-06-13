@@ -1,2 +1,7 @@
+.claudeignore
+
+.quarto/
 .venv/
 __pycache__/
+
+*.qmd
